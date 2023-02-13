@@ -1,4 +1,6 @@
-![Metrics](/github-metrics.svg)
+<p align="center">
+  [<img width="50%" alt="🦑" src="/github-metrics.svg">](#)
+</p>
 
 <!--
 **JasonShiao/JasonShiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
